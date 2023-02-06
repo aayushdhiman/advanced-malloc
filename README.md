@@ -1,6 +1,8 @@
-# Assignment 5: Basic Memory Allocator
+# Advanced Memory Allocator
 
-This is the starter code for [Assignment 5](https://course.ccs.neu.edu/cs3650f22/a05.html).
+A more advanced memory allocator that doesn't used deprecated functionality and uses threads to speed up mimicked malloc, calloc, and free. Writtenn for a systems class.
+
+Completed 11/30/2022.
 
 The [Makefile](Makefile) contains the following targets:
 
